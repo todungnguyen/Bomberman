@@ -1,0 +1,8 @@
+BOMBERMAN
+
+Mode: MOYEN
+
+Tapez le nombre de un dans les niveau pour commencer ou 'p' pour revenir à la page principale.
+
+> Niveau 1
+> Niveau 2
